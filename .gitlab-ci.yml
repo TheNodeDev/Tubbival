@@ -1,0 +1,6 @@
+build:
+  before_script:
+    - apt update && apt -y install cmake ninja-build gcc-multilib g++-multilib
+  script:
+    - cmake -Bbuild -GNinja -DCMAKE_BUILD_TYPE=RELEASE
+    - ninja -Cbuild

@@ -1,0 +1,13 @@
+*.bat text eol=crlf
+*.json text eol=lf
+*.yml text eol=lf
+*.ini text eol=lf
+*.hpp text eol=lf
+*.cpp text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+.gitattributes text eol=lf
+.editorconfig text eol=lf
+.gitignore text eol=lf
+LICENSE text eol=lf
+README text eol=lf
