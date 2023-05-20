@@ -1,3 +1,6 @@
 #include "Plugin.hpp"
 
-Plugin::Plugin() : ptr(nullptr), index(0) { }
+Plugin::Plugin()
+	: ptr(nullptr)
+	, index(0) {
+}

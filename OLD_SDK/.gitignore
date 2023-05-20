@@ -1,0 +1,10 @@
+# CLion
+.idea/
+cmake-build-debug/
+
+# VS
+.vs/
+.vscode/
+out/
+CMakeSettings.json
+build/
